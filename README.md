@@ -13,7 +13,7 @@ https://shop.m5stack.com/collections/atom-series/products/atom-lite-esp32-develo
 ![image](https://user-images.githubusercontent.com/1586332/148209855-9209361b-70d9-4b48-b4d0-41f920e71d66.png)
 
 
-2: A Digole screen:                 
+2: A Digole screen.                 
 https://www.digole.com/index.php?categoryID=153         
 ![image](https://user-images.githubusercontent.com/1586332/148209269-f9644801-c7a0-4c14-bc54-0027681b217d.png)
 
