@@ -28,7 +28,8 @@ The result:
 
 The code's included in this project, there's only a few small changes needed to get hardware serial communication via the grove port.
 
-The code change to the Digole example sketch: "_3D_Cube_Color.ino"                
+The code change to the Digole example sketch: "_3D_Cube_Color.ino"  
+-----------
 The first thing to do is define the grove sockets pins (line 4 and 5), and initialise the second HardwareSerial port using the name OLEDSerial. (line 6)    
 (There's three ports available: 0, 1 and 2.)          
 Line 16 then declares the Digole screen as normal, but rather than the built in hardware Serial pins of an Arduino, we pass in the ESP32 hardware serial object. Using hardware serial is a tiny bit less CPU intensive than the software version.                     
